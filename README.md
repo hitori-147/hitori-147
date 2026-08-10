@@ -2,7 +2,7 @@
 
 <!DOCTYPE HTML>
 
-<h1> 안냥이랍니당💗</h1>
+<p> 안냥이랍니당💗</p>
 
 <!--
 **hitori-147/hitori-147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
