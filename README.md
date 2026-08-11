@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 
 <p> 안냥이랍니당💗</p>
-![프로필이미지](65583738318719029.jpg)
+<img src=65583738318719029.jpg alt="프로필이미지" width="300">
 
 <h1>social🦋</h1>
 <p>XDA: https://xdaforums.com/m/1-2-3.13446496/ </p>
