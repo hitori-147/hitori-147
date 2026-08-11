@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 
 <p> 안냥이랍니당💗</p>
-<img scr=<img width="1200" height="1593" alt="https://raw.githubusercontent.com/hitori-147/hitori-147/refs/heads/main/65583738318719029.jpg" />
+<img scr=https://raw.githubusercontent.com/hitori-147/hitori-147/refs/heads/main/65583738318719029.jpg>
 
 <h1>social🦋</h1>
 <p>XDA: https://xdaforums.com/m/1-2-3.13446496/ </p>
